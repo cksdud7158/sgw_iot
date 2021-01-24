@@ -1,0 +1,4 @@
+#toolbarIcon{
+    display: grid;
+    justify-items: end;
+}
